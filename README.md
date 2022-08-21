@@ -9,7 +9,7 @@
 2. Create a new repo & initialize it with a "README" 
 3. Go to Xihui Xu's GitHub-Practice-184 repo (that generated this page)  
     - Search GitHub for "olbeck" and find the appropriate repo
-    - Fork Olivia's repo to create your own copy to edit
+    - Fork Xihui's repo to create your own copy to edit
     - Your copy of the repo should say "[your-userID] / GitHub-Practice-184" at the top with a tiny note saying it was forked from `olbeck`
     - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
 4. **Add a row** in your copy of the table below with your information 
@@ -22,15 +22,15 @@
         - write a descriptive commit message (e.g. "added Matt Beckman to class table")
         - click green button "Commit changes"
 
-5. Merge your updated copy of the repo with Olivia's repo...
+5. Merge your updated copy of the repo with Xihui's repo...
     - [top of page] >> click "Pull requests" >> click green button "New Pull Request"
-    - GitHub will take you to MY (Olivia's) copy of the repo (olbeck / GitHub-Practice-184) at the top
+    - GitHub will take you to MY (Xihui's) copy of the repo (xihuixu / GitHub-Practice-184) at the top
     - Click the green button "Create pull request"
     - Describe the change again (e.g. "added Matt Beckman to class table")
     - Click the green button "Create pull request"
     - Job done!
  
-**Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (Olivia) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
+**Important**: Your entry will NOT appear on the class table right away.  Once you submit the "pull request" the owner of the repo (Xihui) needs to approve and merge it into the "master" before your entry will appear in the class table on the website. 
 
 <br>
 
