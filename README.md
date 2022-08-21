@@ -7,7 +7,7 @@
 
 1. Create your own GitHub profile/ID (appropriate for job or grad school applications)  
 2. Create a new repo & initialize it with a "README" 
-3. Go to Olivia Beck's GitHub-Practice-184 repo (that generated this page)  
+3. Go to Xihui Xu's GitHub-Practice-184 repo (that generated this page)  
     - Search GitHub for "olbeck" and find the appropriate repo
     - Fork Olivia's repo to create your own copy to edit
     - Your copy of the repo should say "[your-userID] / GitHub-Practice-184" at the top with a tiny note saying it was forked from `olbeck`
@@ -41,7 +41,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
-     
+| Xihui Xu                | Section 003       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |      
 
 
 
