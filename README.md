@@ -10,7 +10,7 @@
 3. Go to Xihui Xu's GitHub-Practice-184 repo (that generated this page)  
     - Search GitHub for "xihuixu" and find the appropriate repo
     - Fork Xihui's repo to create your own copy to edit
-    - Your copy of the repo should say "[your-userID] / GitHub-Practice-184" at the top with a tiny note saying it was forked from `olbeck`
+    - Your copy of the repo should say "[your-userID] / GitHub-Practice-184" at the top with a tiny note saying it was forked from `xihuixu`
     - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
 4. **Add a row** in your copy of the table below with your information 
     - follow the pattern for the vertical bar character (a few keys to the right of "P")... use the "Matthew Beckman" row as a template
