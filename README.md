@@ -8,7 +8,7 @@
 1. Create your own GitHub profile/ID (appropriate for job or grad school applications)  
 2. Create a new repo & initialize it with a "README" 
 3. Go to Xihui Xu's GitHub-Practice-184 repo (that generated this page)  
-    - Search GitHub for "olbeck" and find the appropriate repo
+    - Search GitHub for "xihuixu" and find the appropriate repo
     - Fork Xihui's repo to create your own copy to edit
     - Your copy of the repo should say "[your-userID] / GitHub-Practice-184" at the top with a tiny note saying it was forked from `olbeck`
     - Click on "README.md" >> Edit (pencil icon in upper right) to edit your copy of the repo
