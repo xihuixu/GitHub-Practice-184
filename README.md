@@ -42,7 +42,7 @@
 | Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
 | Xihui Xu                | Section 003       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |      
-
+| Winston Chen            | Section 003       | Winston5306          | https://github.com/Winston5306/GitHub-Practice-184       |
 
 
 
