@@ -46,6 +46,7 @@
 | Matt Leibfreid          | Section 003       | matt-leibfreid       | https://github.com/Matt-Leibfreid/GitHub-Practice-184    |
 | Winston Chen            | Section 003       | Winston5306          | https://github.com/Winston5306/GitHub-Practice-184       |
 | Kesong Lin              | Section 003       | KesongLin            | https://github.com/KesongLin/GitHub-Practice-184         |
+| Seth Faulkner           | Section 003       | faulks21             | https://github.com/faulks21/GitHub-Practice-184          |
 
 
 
