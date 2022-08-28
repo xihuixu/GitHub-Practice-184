@@ -52,6 +52,7 @@
 | Akash Anne              | Section 003       | aka6102              | https://github.com/aka6102/GitHub-Practice-184.          |
 | yuan chen               | Section 003       | andy1213812          | https://github.com/KesongLin/GitHub-Practice-184         |
 | James Tondt             | Section 003       | James5575            | https://github.com/James5575/GitHub-Practice-184         |
+| Hoin Lee                | Section 003       | HoinLee99            | https://github.com/HoinLee99/GitHub-Practice-184         |
 
 
 
