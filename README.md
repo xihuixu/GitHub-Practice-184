@@ -56,8 +56,7 @@
 | Xiaoying Wang           | Section 003       | ElenaXYWang          | https://github.com/ElenaXYWang/GitHub-Practice-184       |
 | Changbin Kim            | Section 003       | cbkiim89             | https://github.com/cbkiim89/GitHub-Practice-184          |
 | Abdallah AlRahbi        | Section 003       | AAlrahbi             | https://github.com/AAlrahbi/GitHub-Practice-184          |
-
-
+| Jingxuan Zhao           | Section 003       | qinqin77             | https://github.com/qinqin77/GitHub-Practice-184          |
 
 <br>
 
