@@ -58,6 +58,7 @@
 | Abdallah AlRahbi        | Section 003       | AAlrahbi             | https://github.com/AAlrahbi/GitHub-Practice-184          |
 | Jingxuan Zhao           | Section 003       | qinqin77             | https://github.com/qinqin77/GitHub-Practice-184          |
 | Tyler Deal              | Section 003       | TylerDeal            | https://github.com/TylerDeal/GitHub-Practice-184         |
+| Anushka Verma           | Section 003       | AnushkaVerma003      | https://github.com/AnushkaVerma003/GitHub-Practice-184)  |
 
 <br>
 
