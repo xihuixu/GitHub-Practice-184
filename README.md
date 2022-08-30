@@ -57,6 +57,7 @@
 | Changbin Kim            | Section 003       | cbkiim89             | https://github.com/cbkiim89/GitHub-Practice-184          |
 | Abdallah AlRahbi        | Section 003       | AAlrahbi             | https://github.com/AAlrahbi/GitHub-Practice-184          |
 | Jingxuan Zhao           | Section 003       | qinqin77             | https://github.com/qinqin77/GitHub-Practice-184          |
+| Tyler Deal              | Section 003       | TylerDeal            | https://github.com/TylerDeal/GitHub-Practice-184         |
 
 <br>
 
