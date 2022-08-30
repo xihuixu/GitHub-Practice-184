@@ -59,7 +59,9 @@
 | Jingxuan Zhao           | Section 003       | qinqin77             | https://github.com/qinqin77/GitHub-Practice-184          |
 | Tyler Deal              | Section 003       | TylerDeal            | https://github.com/TylerDeal/GitHub-Practice-184         |
 | Anushka Verma           | Section 003       | AnushkaVerma003      | https://github.com/AnushkaVerma003/GitHub-Practice-184)  |
-
+| Ririn Park              | Section 003       | rmp5696              | https://github.com/rmp5696/rmp5696-GitHub-Practice-184   |
+| Menghan Zeng            | Section 003       | mzeng21              | https://github.com/mzeng21/GitHub-Practice-184           |
+| Evan Young              | Section 003       | Evanyoung5           | https://github.com/Evanyoung5/GitHub-Practice-184        |
 <br>
 
 # Integration of RStudio with Git
@@ -71,3 +73,9 @@
 
 - This assignment was copied from Matt Beckman's github: https://github.com/mdbeckman/GitHub-Practice-184
 
+# Information
+
+- Carelle Matthews
+- Section 003
+- cmm7635
+- https://github.com/cmm7635/cmm7635-GitHub-Practice-184
