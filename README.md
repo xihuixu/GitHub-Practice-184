@@ -39,7 +39,7 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Matthew Beckman         | Section 001       | mdbeckman            | https://github.com/mdbeckman/dcData                      |  
+| Hannah Sugden           | Section 003       | hjs5560              | https://github.com/xihuixu/GitHub-Practice-184                      |  
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
 | Xihui Xu                | Section 003       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |      
 | Rithik Nair             | Section 003       | rickynair444         | https://github.com/rickynair444/GitHub-Practice-184      |
