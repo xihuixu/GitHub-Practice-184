@@ -73,3 +73,9 @@ https://github.com/Evanyoung5/GitHub-Practice-184
 
 - This assignment was copied from Matt Beckman's github: https://github.com/mdbeckman/GitHub-Practice-184
 
+# Information
+
+- Carelle Matthews
+- Section 003
+- cmm7635
+- https://github.com/cmm7635/cmm7635-GitHub-Practice-184
