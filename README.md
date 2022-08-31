@@ -15,14 +15,13 @@
 4. **Add a row** in your copy of the table below with your information 
     - follow the pattern for the vertical bar character (a few keys to the right of "P")... use the "Matthew Beckman" row as a template
     - (2 pts) first & last name  
-    - Shuyin Zheng
+    - Sunwoo Kim
     - (2 pt)  class section 
     - section 003
     - (2 pts) github id  
-    - ShuyinZheng
+    - hcresp2309
     - (2 pts) url for GitHub Pages website generated from your new GitHub repo
-    - https://github.com/ShuyinZheng/GitHub-Practice-184/edit/master/README.md
-    - (2 pts) commit your changes and submit pull request
+    - https://github.com/hcresp2309/GitHub-Practice-184/edit/master/README.md    - (2 pts) commit your changes and submit pull request
         - write a descriptive commit message (e.g. "added Matt Beckman to class table")
         - click green button "Commit changes"
 
@@ -72,7 +71,7 @@
 | Jade Palmer             | Section 003       | jadepalmer           | https://github.com/jadepalmer/Github-Practice-184        |
 | Yanming Zhang           | Section 003       | ekkozym              | https://github.com/ekkozym/GitHub-Practice-184           |
 | Jack Benadon            | Section 003       | JackBenadon          | https://github.com/JackBenadon/GitHub-Practice-184       |
-| Khaled Al Hemeiri       | Section 003       | KhaledSTAT184        | https://github.com/KhaledSTAT184/GitHub-Practice-184 |
+| Khaled Al Hemeiri       | Section 003       | KhaledSTAT184        | https://github.com/KhaledSTAT184/GitHub-Practice-184     |
 <br>
 
 # Integration of RStudio with Git
