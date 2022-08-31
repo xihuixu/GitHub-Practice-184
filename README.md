@@ -19,6 +19,7 @@
     - (2 pts) github id  
     - (2 pts) url for GitHub Pages website generated from your new GitHub repo
     - (2 pts) commit your changes and submit pull request
+
         - write a descriptive commit message (e.g. "added Matt Beckman to class table")
         - click green button "Commit changes"
 
@@ -39,7 +40,7 @@
 
 | Name                    | Class Section     | GitHub ID            | URL for your GitHub repo                                 |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Hannah Sugden           | Section 003       | hjs5560              | https://github.com/xihuixu/GitHub-Practice-184                      |  
+| Hannah Sugden           | Section 003       | hjs5560              | https://github.com/hjs5560/GitHub-Practice-184                      |  
 | Olivia Beck             | Section 002       | olbeck               | https://github.com/olbeck/GitHub-Practice-184            |  
 | Xihui Xu                | Section 003       | xihuixu              | https://github.com/xihuixu/GitHub-Practice-184           |      
 | Rithik Nair             | Section 003       | rickynair444         | https://github.com/rickynair444/GitHub-Practice-184      |
@@ -68,6 +69,13 @@
 | Jade Palmer             | Section 003       | jadepalmer           | https://github.com/jadepalmer/Github-Practice-184        |
 | Yanming Zhang           | Section 003       | ekkozym              | https://github.com/ekkozym/GitHub-Practice-184           |  
 | Shuyin Zheng            | Section 003       | ShuyinZheng          | https://github.com/ShuyinZheng/GitHub-Practice-184       |  
+| Jade Palmer             | Section 003       | JadePalmer           | https://github.com/jadepalmer/Github-Practice-184        |
+| Yanming Zhang           | Section 003       | ekkozym              | https://github.com/ekkozym/GitHub-Practice-184           |
+| Jack Benadon            | Section 003       | JackBenadon          | https://github.com/JackBenadon/GitHub-Practice-184       |
+| Gelin Tong              | Section 003       | SkyTong              | https://github.com/xihuixu/GitHub-Practice-184           |
+| Jake Powell             | Section 003       | jakepow5             | https://github.com/jakepow5/GitHub-Practice-184          |
+| Saif Bafaraj            | Section 003       | saifbafaraj          | https://github.com/saifbafaraj/GitHub-Practice-184       | 
+| Nicholas Anderson       | Section 003       | nra5191              | https://github.com/nra5191/GitHub-Practice-184           |
 
 
 # Integration of RStudio with Git
