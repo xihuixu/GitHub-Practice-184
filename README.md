@@ -66,7 +66,8 @@
 | Rosalind Shui           | Section 003       | roseshui3112         | https://github.com/roseshui3112/Github-Practice-184      |
 | Qingyue Tian            | Section 003       | qingyue-tian         | https://github.com/qingyue-tian/GitHub-Practice-184      |
 | Jade Palmer             | Section 003       | jadepalmer           | https://github.com/jadepalmer/Github-Practice-184        |
-| Yanming Zhang           | Section 003       | ekkozym              | https://github.com/ekkozym/GitHub-Practice-184           |      
+| Yanming Zhang           | Section 003       | ekkozym              | https://github.com/ekkozym/GitHub-Practice-184           |
+| Jack Benadon            | Section 003       | JackBenadon          | https://github.com/JackBenadon/GitHub-Practice-184       |
 <br>
 
 # Integration of RStudio with Git
