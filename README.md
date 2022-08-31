@@ -74,6 +74,7 @@
 | Gelin Tong              | Section 003       | SkyTong              | https://github.com/xihuixu/GitHub-Practice-184           |
 | Jake Powell             | Section 003       | jakepow5             | https://github.com/jakepow5/GitHub-Practice-184          |
 | Saif Bafaraj            | Section 003       | saifbafaraj          | https://github.com/saifbafaraj/GitHub-Practice-184       | 
+| Nicholas Anderson       | Section 003       | nra5191              | https://github.com/nra5191/GitHub-Practice-184           |
 
 # Integration of RStudio with Git
 
