@@ -64,6 +64,7 @@
 | Evan Young              | Section 003       | Evanyoung5           | https://github.com/Evanyoung5/GitHub-Practice-184        |
 | Avi Chandra             | Section 003       | aviaviavi01          | https://github.com/aviaviavi01/GitHub-Practice-184       |
 | Rosalind Shui           | Section 003       | roseshui3112         | https://github.com/roseshui3112/Github-Practice-184      |
+| Qingyue Tian            | Section 003       | qingyue-tian         | https://github.com/qingyue-tian/GitHub-Practice-184      |
 <br>
 
 # Integration of RStudio with Git
