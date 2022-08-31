@@ -71,8 +71,9 @@
 | Jade Palmer             | Section 003       | jadepalmer           | https://github.com/jadepalmer/Github-Practice-184        |
 | Yanming Zhang           | Section 003       | ekkozym              | https://github.com/ekkozym/GitHub-Practice-184           |
 | Jack Benadon            | Section 003       | JackBenadon          | https://github.com/JackBenadon/GitHub-Practice-184       |
-| Khaled Al Hemeiri       | Section 003       | KhaledSTAT184        | https://github.com/KhaledSTAT184/GitHub-Practice-184     |
-<br>
+| Gelin Tong              | Section 003       | SkyTong              | https://github.com/xihuixu/GitHub-Practice-184           |
+| Jake Powell             | Section 003       | jakepow5             | https://github.com/jakepow5/GitHub-Practice-184          |
+| Saif Bafaraj            | Section 003       | saifbafaraj          | https://github.com/saifbafaraj/GitHub-Practice-184       | 
 
 # Integration of RStudio with Git
 
