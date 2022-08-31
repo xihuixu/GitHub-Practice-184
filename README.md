@@ -68,7 +68,7 @@
 | Avi Chandra             | Section 003       | aviaviavi01          | https://github.com/aviaviavi01/GitHub-Practice-184       |
 | Rosalind Shui           | Section 003       | roseshui3112         | https://github.com/roseshui3112/Github-Practice-184      |
 | Qingyue Tian            | Section 003       | qingyue-tian         | https://github.com/qingyue-tian/GitHub-Practice-184      |
-| Jade Palmer             | Section 003       | jadepalmer           | https://github.com/jadepalmer/Github-Practice-184        |
+| Jade Palmer             | Section 003       | JadePalmer           | https://github.com/jadepalmer/Github-Practice-184        |
 | Yanming Zhang           | Section 003       | ekkozym              | https://github.com/ekkozym/GitHub-Practice-184           |
 | Jack Benadon            | Section 003       | JackBenadon          | https://github.com/JackBenadon/GitHub-Practice-184       |
 | Gelin Tong              | Section 003       | SkyTong              | https://github.com/xihuixu/GitHub-Practice-184           |
