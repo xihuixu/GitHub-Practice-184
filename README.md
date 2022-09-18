@@ -77,7 +77,7 @@
 | Saif Bafaraj            | Section 003       | saifbafaraj          | https://github.com/saifbafaraj/GitHub-Practice-184       | 
 | Nicholas Anderson       | Section 003       | nra5191              | https://github.com/nra5191/GitHub-Practice-184           |
 | Siddhartha Kollati      | Section 003       | szk6147              | https://github.com/szk6147/GitHub-Practice-184           |
-
+| Jacob Miller            | Section 003       | jjm7866              | https://github.com/jjm7866/GitHub-Practice-184           |
 
 # Integration of RStudio with Git
 
